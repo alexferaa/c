@@ -339,13 +339,3 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn5.vectorstock.com/i/1000x1000/43/89/film-logo-initial-letter-x-movie-logo-design-vector-39324389.jpg",X Movie
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/RTA_Afghanistan_Logo_%282021%E2%80%93%29.svg/1200px-RTA_Afghanistan_Logo_%282021%E2%80%93%29.svg.png",RTA Sport
-https://atc.hopto.org/AFG-RTA-SPORT-web/tracks-v2a1/mono.m3u8?token=7f9f2705d95a96710a9c6fd8f3a9f68d84fadcd9-bf75f0d67ec236c641232a0781780274-1685693263-1685682463
-
-#EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog1476130363",&Pictures HD
-https://zee5.sabbirhasan3.repl.co/api?id=0-9-tvpictureshd
-#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_web/1170x658379547401",&flix HD
-https://zee5.sabbirhasan3.repl.co/api?id=0-9-channel_2105335046
-#EXTINF:-1 tvg-id="0-9-209" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_web/1170x658withlogo358457080",&xplorHD
-https://zee5.sabbirhasan3.repl.co/api?id=0-9-209

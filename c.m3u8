@@ -1,5 +1,12 @@
 #EXTM3U
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://tatakey-v2.sabbirhasan.trial.rocks/key?payload=gAAAAABkdG2_nm8R-RK_6p3OL6nM6yPEysiXzke7ZYxcS2_DjIPzqHxLOrQSTWH4_xgYZerjEvdSKT1Mg8NjfX_EyYzetVCKKdOuB4EAZX9X3IWj0GgT5UT7bfcUFDtlVx13qwuM_oYY1MKkqN6PuNLl8LiazCcb7N17ACt0VN7kspNZCWRA9jHKYY1TEDjdaoONiOayWIE9_O8dZkOy5KhYWyftan4EJivMuCMmPGWGpF3XOVifqhY=
+#EXTINF:-1 tvg-id="78" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" ,Star Sports 1 HD
+https://delta14tatasky.akamaized.net/out/i/7136433.mpd
+
+#EXTINF:-1 timeshift="2" xui-id="2485213" tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-cricket-icon-uk.png",Sky Sports Cricket HD
+http://watch.breakingcabletv.com:80/play/nG4svj4agrj2UnHbRjFOOTZc2-sm1L4XrBG1I1PSEOQYblv4ePKBJlrk_PaCyNpZ
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/501

@@ -1,14 +1,6 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://tatakey-v2.sabbirhasan.trial.rocks/key?payload=gAAAAABkdG2_nm8R-RK_6p3OL6nM6yPEysiXzke7ZYxcS2_DjIPzqHxLOrQSTWH4_xgYZerjEvdSKT1Mg8NjfX_EyYzetVCKKdOuB4EAZX9X3IWj0GgT5UT7bfcUFDtlVx13qwuM_oYY1MKkqN6PuNLl8LiazCcb7N17ACt0VN7kspNZCWRA9jHKYY1TEDjdaoONiOayWIE9_O8dZkOy5KhYWyftan4EJivMuCMmPGWGpF3XOVifqhY=
-#EXTINF:-1 tvg-id="78" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" ,Star Sports 1 HD
-https://delta14tatasky.akamaized.net/out/i/7136433.mpd
-
-#EXTINF:-1 timeshift="2" xui-id="2485213" tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-cricket-icon-uk.png",Sky Sports Cricket HD
-http://watch.breakingcabletv.com:80/play/nG4svj4agrj2UnHbRjFOOTZc2-sm1L4XrBG1I1PSEOQYblv4ePKBJlrk_PaCyNpZ
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/501
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_asia_us.png",Discovery Asia Malaysia
 https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
@@ -347,5 +339,9 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/02.m3u8
 #EXTINF:-1 tvg-logo="https://cdn5.vectorstock.com/i/1000x1000/43/89/film-logo-initial-letter-x-movie-logo-design-vector-39324389.jpg",X Movie
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/RTA_Afghanistan_Logo_%282021%E2%80%93%29.svg/1200px-RTA_Afghanistan_Logo_%282021%E2%80%93%29.svg.png",RTA Sport
-https://atc.hopto.org/AFG-RTA-SPORT-web/tracks-v1a1/mono.m3u8?token=7e4342cca15fd07e8501c453db299137f8fbc537-a1fc52afafb915e2b3d4e34c55b35cf5-1685875559-1685864759
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD2B8h2h/Star-Sports-1-HD.png",Star Sports 1 HD
+http://crichd-v2.sabbirhasan.trial.rocks/api?id=star1in
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNCwDYR6/Willow.png",Willow HD
+http://crichd-v2.sabbirhasan.trial.rocks/api?id=willowusa
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1J5Y37q/Sky-Sports-Cricket.png",Sky Sports Cricket
+http://crichd-v2.sabbirhasan.trial.rocks/api?id=skyscric

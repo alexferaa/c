@@ -345,6 +345,14 @@ http://crichd-v2.sabbirhasan.trial.rocks/api?id=star1in
 http://crichd-v2.sabbirhasan.trial.rocks/api?id=willowusa
 #EXTINF:-1 tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-cricket-icon-uk.png", Sky Sports Cricket
 http://crichd-v2.sabbirhasan.trial.rocks/api?id=skyscric
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDdXYCKs/Sky-Sports-Mix.png",Sky Sports Mix
+http://crichd-v2.sabbirhasan.trial.rocks/api?id=skysmixx
 
-#EXTINF:-1 tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-cricket-icon-uk.png",Sky Sports Cricket UK
-http://watch.breakingcabletv.com:80/play/jtLqOitTe-ZteW5NpEdK8s4i4xXQP_R_6Mw4O23yMxWnrJdRonsHuOFwzEPJZDsN
+#EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsMixNew_201708/sky%20sports%20mix%20new.png",Sky Sports Mix 1
+http://mytv.fun:80/jc1bu936np/xg29vipolf/692275
+#EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsMixNew_201708/sky%20sports%20mix%20new.png",Sky Sports Mix 2
+http://mytv.fun:80/jc1bu936np/xg29vipolf/692278
+#EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsMixNew_201708/sky%20sports%20mix%20new.png",Sky Sports Mix 3
+http://mytv.fun:80/jc1bu936np/xg29vipolf/692276
+#EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsMixNew_201708/sky%20sports%20mix%20new.png",Sky Sports Mix 4
+http://mytv.fun:80/jc1bu936np/xg29vipolf/692277

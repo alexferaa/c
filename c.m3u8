@@ -343,5 +343,8 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 http://crichd-v2.sabbirhasan.trial.rocks/api?id=star1in
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNCwDYR6/Willow.png",Willow HD
 http://crichd-v2.sabbirhasan.trial.rocks/api?id=willowusa
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1J5Y37q/Sky-Sports-Cricket.png",Sky Sports Cricket
+#EXTINF:-1 tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-cricket-icon-uk.png",Sky Sports Cricket
 http://crichd-v2.sabbirhasan.trial.rocks/api?id=skyscric
+
+#EXTINF:-1 tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-cricket-icon-uk.png",Sky Sports Cricket HD
+http://watch.breakingcabletv.com:80/play/jtLqOitTe-ZteW5NpEdK8s4i4xXQP_R_6Mw4O23yMxWnrJdRonsHuOFwzEPJZDsN

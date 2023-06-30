@@ -336,23 +336,5 @@ https://dplus.gammacdn.workers.dev/videos/113.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png",KBS WORLD
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn5.vectorstock.com/i/1000x1000/43/89/film-logo-initial-letter-x-movie-logo-design-vector-39324389.jpg",X Movie
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD2B8h2h/Star-Sports-1-HD.png",Star Sports 1 HD
-http://crichd-v2.sabbirhasan.trial.rocks/api?id=star1in
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNCwDYR6/Willow.png",Willow HD
-http://crichd-v2.sabbirhasan.trial.rocks/api?id=willowusa
-#EXTINF:-1 tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-cricket-icon-uk.png", Sky Sports Cricket
-http://crichd-v2.sabbirhasan.trial.rocks/api?id=skyscric
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDdXYCKs/Sky-Sports-Mix.png",Sky Sports Mix
-http://crichd-v2.sabbirhasan.trial.rocks/api?id=skysmixx
-
-#EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsMixNew_201708/sky%20sports%20mix%20new.png",Sky Sports Mix 1
-http://mytv.fun:80/jc1bu936np/xg29vipolf/692275
-#EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsMixNew_201708/sky%20sports%20mix%20new.png",Sky Sports Mix 2
-http://mytv.fun:80/jc1bu936np/xg29vipolf/692278
-#EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsMixNew_201708/sky%20sports%20mix%20new.png",Sky Sports Mix 3
-http://mytv.fun:80/jc1bu936np/xg29vipolf/692276
-#EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsMixNew_201708/sky%20sports%20mix%20new.png",Sky Sports Mix 4
-http://mytv.fun:80/jc1bu936np/xg29vipolf/692277
+#EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsMixNew_201708/sky%20sports%20mix%20new.png",Sky Sports Mix Main
+https://daddy-thecodecrafters.vercel.app/api?id=449

@@ -1,18 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="foxsport" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_1_cl.png",FOX SPORTS 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
-#EXTINF:-1 tvg-ID="foxsport2" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_asia.png",FOX SPORTS 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
-#EXTINF:-1 tvg-ID="foxsport3" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_asia.png",FOX SPORTS 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
-
 #EXTINF:-1 tvg-logo="https://archive.org/download/BtSport1/bt%20sport%201.png",BT Sport 1 HD
 https://daddy-thecodecrafters.vercel.app/api?id=31
 #EXTINF:-1 tvg-logo="https://archive.org/download/BtSport2_201708/bt%20sport%202.png",BT Sport 2 HD
@@ -21,7 +8,6 @@ https://daddy-thecodecrafters.vercel.app/api?id=32
 https://daddy-thecodecrafters.vercel.app/api?id=33
 #EXTINF:-1 tvg-logo="https://archive.org/download/BtSportEspnHd/bt%20sport%20espn%20hd.png",BT Sport ESPN
 https://daddy-thecodecrafters.vercel.app/api?id=34
-
 #EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsFootball_201708/sky%20sports%20football.png",Sky Sports Football UK
 https://daddy-thecodecrafters.vercel.app/api?id=35
 #EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsArena_201708/sky%20sports%20arena.png",Sky Sports Arena UK
@@ -36,12 +22,6 @@ https://daddy-thecodecrafters.vercel.app/api?id=130
 https://daddy-thecodecrafters.vercel.app/api?id=65
 #EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsMixNew_201708/sky%20sports%20mix%20new.png",Sky Sports MIX UK
 https://daddy-thecodecrafters.vercel.app/api?id=449
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",beIN SPORTS 1 English
-https://daddy-thecodecrafters.vercel.app/api?id=61
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",beIN SPORTS 2 English
-https://daddy-thecodecrafters.vercel.app/api?id=90
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",beIN SPORTS 3 English
-https://daddy-thecodecrafters.vercel.app/api?id=46
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sky_Atlantic_-_Logo_2020.svg/2560px-Sky_Atlantic_-_Logo_2020.svg.png",Sky Atlantic
 https://daddy-thecodecrafters.vercel.app/api?id=362
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket
@@ -54,20 +34,20 @@ https://daddy-thecodecrafters.vercel.app/api?id=370
 https://daddy-thecodecrafters.vercel.app/api?id=346
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1007
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_box_office_bollyone_hd.png",BOLLYONE HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2105
+#EXTINF:-1 tvg-id="202" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Vinmeen_HD_v1.png",Astro Vinmeen HD Malaysia
+https://linears-playback.astro.com.my/vsg/41rJPShGyLYEU6gnK8xr66hGlGbp2-McA-Dh4nwPcJB7o=WsQD/dash-wv/jitp-linearwm/2105/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
-#EXTINF:-1 tvg-id="404" tvg-name="BOO" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boo_my.png",BOO
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/202
+#EXTINF:-1 tvg-id="203" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png",Astro Vellithirai Malaysia
+http://linearjitp-playback.astro.com.my/dash-wv/linear/202/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2109
 #EXTINF:-1 tvg-id="241" tvg-name="ABO Movies Thangathirai HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_bom_thangathirai.png",ABO Movies Thangathirai HD Malaysia
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/509
-#EXTINF:-1 tvg-id="615" tvg-name="CARTOON NETWORK" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/615_300.png",CARTOON NETWORK Malaysia
+#EXTINF:-1 tvg-id="615" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK Malaysia
 https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5014

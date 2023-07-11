@@ -1,39 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/BtSport1/bt%20sport%201.png",BT Sport 1 HD
-https://daddy-thecodecrafters.vercel.app/api?id=31
-#EXTINF:-1 tvg-logo="https://archive.org/download/BtSport2_201708/bt%20sport%202.png",BT Sport 2 HD
-https://daddy-thecodecrafters.vercel.app/api?id=32
-#EXTINF:-1 tvg-logo="https://archive.org/download/BtSport3/bt%20sport%203.png",BT Sport 3 HD
-https://daddy-thecodecrafters.vercel.app/api?id=33
-#EXTINF:-1 tvg-logo="https://archive.org/download/BtSportEspnHd/bt%20sport%20espn%20hd.png",BT Sport ESPN
-https://daddy-thecodecrafters.vercel.app/api?id=34
-#EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsFootball_201708/sky%20sports%20football.png",Sky Sports Football UK
-https://daddy-thecodecrafters.vercel.app/api?id=35
-#EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsArena_201708/sky%20sports%20arena.png",Sky Sports Arena UK
-https://daddy-thecodecrafters.vercel.app/api?id=36
-#EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsAction_201708/sky%20sports%20action.png",Sky Sports Action UK
-https://daddy-thecodecrafters.vercel.app/api?id=37
-#EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsMainEvent_201708/sky%20sports%20main%20event.png",Sky Sports Main Event
-https://daddy-thecodecrafters.vercel.app/api?id=38
-#EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsPremierLeague_201708//sky%20sports%20premier%20league_thumb.jpg",Sky sports Premier League
-https://daddy-thecodecrafters.vercel.app/api?id=130
-#EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsCricket_201708/sky%20sports%20cricket.png",Sky Sports Cricket UK
-https://daddy-thecodecrafters.vercel.app/api?id=65
-#EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsMixNew_201708/sky%20sports%20mix%20new.png",Sky Sports MIX UK
-https://daddy-thecodecrafters.vercel.app/api?id=449
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sky_Atlantic_-_Logo_2020.svg/2560px-Sky_Atlantic_-_Logo_2020.svg.png",Sky Atlantic
-https://daddy-thecodecrafters.vercel.app/api?id=362
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket
-https://daddy-thecodecrafters.vercel.app/api?id=368
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png",Fox Cricket
-https://daddy-thecodecrafters.vercel.app/api?id=369
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket
-https://daddy-thecodecrafters.vercel.app/api?id=370
-#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",Willow Cricket
-https://daddy-thecodecrafters.vercel.app/api?id=346
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2109
 #EXTINF:-1 tvg-id="241" tvg-name="ABO Movies Thangathirai HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_bom_thangathirai.png",ABO Movies Thangathirai HD Malaysia

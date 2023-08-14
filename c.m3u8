@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://hotdog.com/wp-content/uploads/willow-tv.jpg",Willo Cricket HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:5A:1C:B8&stream=1104677&extension=ts&play_token=9GNgQT81cI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/A_Sports_Logo.png/150px-A_Sports_Logo.png",A Sports HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:5A:1C:B8&stream=1147117&extension=m3u8&play_token=PN3cQTcedf
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2109
 #EXTINF:-1 tvg-id="241" tvg-name="ABO Movies Thangathirai HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_bom_thangathirai.png",ABO Movies Thangathirai HD Malaysia

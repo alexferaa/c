@@ -366,23 +366,24 @@ https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Independent_Television_Network_%28Sri_Lanka%29_Logo.png",ITN
-https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/playlist_dvr.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Vasanthamtv_channel.jpg/140px-Vasanthamtv_channel.jpg",Vasantham TV
-https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
+https://live.peotv.com/bpk-tv/003/output/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/0hnpeq9.png",Swarnavahini
-https://jk3lz8xklw79-hls-live.5centscdn.com/efm/098f6bcd4621d373cade4e832627b4f6.sdp/playlist.m3u8
+https://live.peotv.com/bpk-tv/006/output/index.m3u8
 #EXTINF:-1  tvg-logo="https://siyathatv.lk/wp-content/uploads/2021/10/30x24-Siyatha-Tv.jpg",Siyatha TV
-https://voaplus.com/live/tL4Has1RhxZy8vANSC9uQAGc2/index.m3u8
-#EXTINF:-1  tvg-logo="https://sri-lanka.mom-gmr.org/typo3temp/_processed_/e/5/csm_13518-1360_import_e384ccd79a.png",Rupavahini 1
-http://dammikartmp.tulix.tv/slrc1/slrc1/player.m3u8 
-#EXTINF:-1  tvg-logo="https://sri-lanka.mom-gmr.org/typo3temp/_processed_/e/5/csm_13518-1360_import_e384ccd79a.png",Rupavahini 2
-https://ythls.onrender.com/channel/UCi0cdSwyCHgPa95_nX457pw.m3u8
-#EXTINF:-1  tvg-logo="https://24.adaderana.lk/wp-content/uploads/2019/05/Ada-Derana-24-png-sinhala.png",Ada Derana
-https://ythls.onrender.com/channel/UCCK3OZi788Ok44K97WAhLKQ.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vToOI2s.png",Derana TV
-https://ythls.onrender.com/channel/UCbkMFGQ_RWIf0OiYeOpf6Ng.m3u8
+https://live.peotv.com/bpk-tv/021/output/index.m3u8
+#EXTINF:-1  tvg-logo="https://sri-lanka.mom-gmr.org/typo3temp/_processed_/e/5/csm_13518-1360_import_e384ccd79a.png",Rupavahini
+https://live.peotv.com/bpk-tv/001/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TV_Derana_black_logo.png",Derana
+https://live.peotv.com/bpk-tv/004/output/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/tt/the_buddhist_lk.png",Buddhist TV
 https://ythls.onrender.com/channel/UC37lrcLuvJmWDoooxwiPXXA.m3u8
+#EXTINF:-1  tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniQEEhQyN3Ciy5xzATt8BO-UI_p1h80vInipBJP=s900-c-k-c0x00ffffff-no-rj",Jayamaga TV
+https://live.peotv.com/bpk-tv/094/output/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png",Ten Cricket
+https://live.peotv.com/bpk-tv/044/output/index.m3u8
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/SS1_Crop.jpg/revision/latest?cb=20170728060439",Star Sports 1
+https://live.peotv.com/bpk-tv/041/output/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/3wYj6cmS/Discovery.png",Discovery HD World
 https://dplus.gammacdn.workers.dev/videos/95.m3u8

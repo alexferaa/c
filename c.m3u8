@@ -1,5 +1,47 @@
 #EXTM3U
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubpku.strimz.workers.dev/
+#EXTINF:0 CUID="66" tvg-name="HBO SIGNATURE" tvg-id="hbosignature.id" tvg-logo="https://logo.iptveditor.com/hbosignature.png",HBO SIGNATURE Indonesia
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmvsn.herokuapp.com/vsn.php
+#EXTINF:0 CUID="702" tvg-name="Cinemachi" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/Cinemachi-logo.png" ,Cinemachi Indonesia
+https://satvb.my.id/vsn/visio.mpd?id=63343
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmvsn.herokuapp.com/vsn.php
+#EXTINF:0 CUID="703" tvg-name="Cinemachi Kids" tvg-logo="https://logo.iptveditor.com/cinemachikids.png",Cinemachi Kids Indonesia
+https://satvb.my.id/vsn/visio.mpd?id=63350
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmvsn.herokuapp.com/vsn.php
+#EXTINF:0 CUID="704" tvg-name="Cinemachi Action" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-action.png",Cinemachi Action Indonesia
+https://satvb.my.id/vsn/visio.mpd?id=63354
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmvsn.herokuapp.com/vsn.php
+#EXTINF:0 CUID="705" tvg-name="Cinemachi Max" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-max.png",Cinemachi Max Indonesia
+https://satvb.my.id/vsn/visio.mpd?id=63357
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmvsn.herokuapp.com/vsn.php
+#EXTINF:0 CUID="706" tvg-name="Cinemachi Xtra" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-xtra.png" ,Cinemachi Xtra Indonesia
+https://satvb.my.id/vsn/visio.mpd?id=63358
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 CUID="88" tvg-name="Galaxy Premium" tvg-id="galaxypremium.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png",Galaxy Premium Indonesia
+https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 CUID="115" tvg-name="NHK World Premium" tvg-id="nhkworldpremium.id" tvg-logo="https://logo.iptveditor.com/nhkworldhz.png" ,NHK World Premium Indonesia
+https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 CUID="106" tvg-name="Lifetime" tvg-id="lifetime.id" tvg-logo="https://logo.iptveditor.com/lifetime.png" ,Lifetime Indonesia
+https://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 CUID="105" tvg-name="Sony One" tvg-logo="https://logo.iptveditor.com/sonyone.png",Sony One
+https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2109
 #EXTINF:-1 tvg-id="241" tvg-name="ABO Movies Thangathirai HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_bom_thangathirai.png",ABO Movies Thangathirai HD Malaysia
@@ -48,17 +90,14 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_prim
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2104
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png",ASTRO SUPERSPORT 2 HD Malaysia
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2701
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png",ASTRO SUPERSPORT 3 HD Malaysia
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png",SPOTV2 Malaysia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5079
@@ -67,10 +106,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png",WWE NETWORK Malaysia
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-5-my.png",ASTRO SUPERSPORT 5 HD Malaysia
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5098
 #EXTINF:-1 tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola_logo.png",ASTRO ARENA BOLA Malaysia
@@ -187,7 +222,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5098
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5098/default.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/506
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" ,CELESTIAL MOVIES Malaysia
@@ -252,19 +286,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2511
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nickelodeon_us_hd.png",NICKELODEON
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:0 tvg-id="OKTV.id" tvg-logo="https://i.imgur.com/IrS5AOC.png" ,OK TV
 https://newanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png",Zee Bioskop
-https://newanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GA2ny64.png",Star Chinese Movies
-https://newanv-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us_hd.png",NATIONAL GEOGRAPHIC Malaysia
@@ -273,22 +299,27 @@ https://newanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChann
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://content.osn.com/bob/745x419/NHD.jpg",NAT GEO WILD Malaysia
 https://newanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/boomerang_th.png" ,BOOMERANG Malaysia
 https://newanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-classic-movies-hk.png",CCM Malaysia
 https://newanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy_tv_id.png" ,GALAXY Malaysia
 https://newanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy-premium-id.png",GALAXY PREMIUM Malaysia
 https://newanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thrill_hk.png" ,THRILL Malaysia
@@ -336,9 +367,6 @@ https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 
 #EXTINF:-1  tvg-logo="http://www.tunisvista.com/medias/mbc-drama-plus-tv-live-online-streaming.png",MBC DRAMA PLUS HD
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/2560px-NHK_World-Japan_TV.svg.png",NHK World
-https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vzbhKTj/mbc5.png",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8

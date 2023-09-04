@@ -71,29 +71,24 @@ https://newanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/601
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601
 #EXTINF:-1 tvg-id="811" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
-#########https://linears-playback.astro.com.my/vsg/41ncnJal2vUifRqWv4Nh6VvERIV7stT1h2o6Oq7cdgGGo=NrRD/dash-wv/jitp-linearwm/601/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41ncnJal2vUifRqWv4Nh6VvERIV7stT1h2o6Oq7cdgGGo=NrRD/dash-wv/jitp-linearwm/601/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2104
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2104
 #EXTINF:-1 tvg-id="812" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png",Astro SuperSport 2 Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_ott.mpd
-#########https://linears-playback.astro.com.my/vsg/41a7iAe3gRfVxmStagNRzStGKrLTvwyys0hzSOHXSSXCM=Zwpz/dash-wv/jitp-linearwm/2104/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41a7iAe3gRfVxmStagNRzStGKrLTvwyys0hzSOHXSSXCM=Zwpz/dash-wv/jitp-linearwm/2104/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2701
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701
 #EXTINF:-1 tvg-id="813" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",Astro SuperSport 3 Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_ott.mpd
-#########https://linears-playback.astro.com.my/vsg/41_AAnoSr8ZL9uHgPgGJXYXLnVSpX6YJqbgcuK78ggy3E=diJa/dash-wv/jitp-linearwm/2701/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41_AAnoSr8ZL9uHgPgGJXYXLnVSpX6YJqbgcuK78ggy3E=diJa/dash-wv/jitp-linearwm/2701/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506
 #EXTINF:-1 tvg-id="814" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png",Astro SuperSport 4 Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
-#########https://linears-playback.astro.com.my/vsg/41_AAnoSr8ZL9uHgPgGJXYXLAPafSX2IjLeAUWVVrPj04=paAp/dash-wv/jitp-linearwm/2506/default_ott.mpd
-
+https://linears-playback.astro.com.my/vsg/41_AAnoSr8ZL9uHgPgGJXYXLAPafSX2IjLeAUWVVrPj04=paAp/dash-wv/jitp-linearwm/2506/default_ott.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey

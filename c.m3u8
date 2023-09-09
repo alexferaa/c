@@ -74,36 +74,44 @@ https://newanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChann
 https://newanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/100
+#EXTINF:-1 tvg-id="CCM" ch-number="100" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_CCM.png",CELESTIAL CLASSIC MOVIES Malaysia
+https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5088
+#EXTINF:-1 tvg-id="KTV" ch-number="216" tvg-logo="https://aqfadtv.xyz/logos/KTV.png",KTV Malaysia
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1601
-#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-id="AstroSupersport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png",ASTRO SUPERSPORT HD 22
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-id="AstroSupersport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png",ASTRO SUPERSPORT HD Malaysia
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506
-#EXTINF:-1 tvg-id="815" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png",ASTRO SUPERSPORT 4 HD
+#EXTINF:-1 tvg-id="815" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png",ASTRO SUPERSPORT 4 HD Malaysia
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2306
-#EXTINF:-1 tvg-id="KBSWorld" tvg-logo="https://telegra.ph/file/f0c78541d975e72aa461d.png",KBS World HD
+#EXTINF:-1 tvg-id="KBSWorld" tvg-logo="https://telegra.ph/file/f0c78541d975e72aa461d.png",KBS World HD Malaysia
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2706
-#EXTINF:-1,  tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD CH351
+#EXTINF:-1,  tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD CH351 Malaysia
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/700
-#EXTINF:-1,  tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD CH352
+#EXTINF:-1,  tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD CH352 Malaysia
 http://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/700
-#EXTINF:-1,  tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD CH353
+#EXTINF:-1,  tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD CH353 Malaysia
 http://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/212
-#EXTINF:-1, tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD CH354
+#EXTINF:-1, tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD CH354 Malaysia
 http://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/212
-#EXTINF:-1, tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD CH355
+#EXTINF:-1, tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD CH355 Malaysia
 http://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5052

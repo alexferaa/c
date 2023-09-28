@@ -6,9 +6,8 @@
 https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5073
-#EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroVellithirai.png",Astro Vellithirai Malaysia
+#EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_vellithirai.png",Astro Vellithirai Malaysia
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_primary.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5094
 #EXTINF:-1 tvg-id="Global Trekker" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNpfPRrXubIxPR4apcIjWmqLBXh5F34dCL6w&usqp=CAU" ch-number="550",Global Trekker Malaysia

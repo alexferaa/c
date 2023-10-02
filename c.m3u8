@@ -1,15 +1,9 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK Sky Sports Cricket" tvg-logo="http://5.44.253.151:80/images/396c09ca3fc240d83640a44721b6321f.png",Sky Sports Cricket
-http://ky-iptv.com:80/H5ugC9Jxzb/4wRsyf29Y9/1769162.ts
-#EXTINF:-1 tvg-id="" tvg-name="South Africa SuperSport Cricket" tvg-logo="http://5.44.253.151:80/images/a1f407d7b61d6905ac5b143442bcc2c5.png",South Africa SuperSport Cricket
-http://ky-iptv.com:80/H5ugC9Jxzb/4wRsyf29Y9/386586.ts
 #EXTINF:-1 tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", TSPORTS HD
 https://live.tsports.com/mobile_hls/tsports_live_2/auto.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.afghanlive.tv/wp-content/uploads/2020/03/rta-sport-afghanistan-live.jpg?resize=390%2C220&ssl=1", RTA SPORTS
 http://hls.rtasport.live/hls/stream.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/915

@@ -1,9 +1,21 @@
 #EXTM3U
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy-premium-id.png",GALAXY PREMIUM
-https://newanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Cricket" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b33dfe81c31eb1ea15ca2705d24af664.png" group-title="UK ➾ Sports",UK: Sky Sports Cricket
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/269
+#EXTINF:-1 tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", TSPORTS HD
+https://live.tsports.com/mobile_hls/tsports_live_2/auto.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png", PTV SPORTS HD
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ptvsports/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://staticg.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png", TEN SPORTS HD
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ten-sports/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png", PTV SPORTS HD
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ptvsports/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.afghanlive.tv/wp-content/uploads/2020/03/rta-sport-afghanistan-live.jpg?resize=390%2C220&ssl=1", RTA SPORTS
+http://hls.rtasport.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" , WILLOW CRICKET
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/willow-cric/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsCricket_201708/sky%20sports%20cricket.png" , SKY SPORTS CRICKET
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/Sky-Sports-cric/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/915

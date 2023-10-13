@@ -1,17 +1,16 @@
 #EXTM3U
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2503 
 #EXTINF:-1 tvg-id="CNN" ch-number="511" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png",CNN HD Malaysia
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1008
-#EXTINF:-1 tvg-id="BBCWorldNews" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201910/20191017/20191017092229933nmy.png" ch-number="512",BBC World News HD Malaysia
+#EXTINF:-1 tvg-id="BBCWorldNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/640px-BBC_World_News_2022_%28Boxed%29.svg.png" ch-number="512",BBC World News HD Malaysia
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2110
-#EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png" ch-number="513",Al Jazeera English HD Malaysia
+#EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-logo="https://uk.radio.net/images/broadcasts/47/5f/35826/c300.png" ch-number="513",Al Jazeera English HD Malaysia
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/915
@@ -351,8 +350,6 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://live.peotv.com/bpk-tv/004/output/index.m3u8
 #EXTINF:-1  tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngCfJ3jqCu7WfYxV3YfNHIrqSw5R4CVgAmxCFQFaQ=s900-c-k-c0x00ffffff-no-rj",Hiru TV
 https://live.peotv.com/bpk-tv/019/output/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sirasa_TV_Logo.png",Sirasa TV
-https://live.peotv.com/bpk-tv/010/output/index.m3u8
 #EXTINF:-1  tvg-logo="https://sri-lanka.mom-gmr.org/typo3temp/_processed_/e/5/csm_13518-1360_import_e384ccd79a.png",Rupavahini
 https://live.peotv.com/bpk-tv/001/output/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/tt/the_buddhist_lk.png",Buddhist TV

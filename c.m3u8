@@ -1,8 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3065/entry_id/d724830b989e4deea94dad5de63fe2e7_20/version/2",Godzilla
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key="khVn59+I/ANWLS1uRvs64A:2GECeCreC3RPRHdjnYffWg"
+#EXTINF:-1 tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3065/entry_id/d724830b989e4deea94dad5de63fe2e7_20/version/2",Godzilla
 https://cdnapisec.kaltura.com/p/2433871/sp/243387100/playManifest/protocol/https//entryId/1_crmi6nti/format/mpegdash/tags/mbr/f/a.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey

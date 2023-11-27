@@ -1,19 +1,5 @@
 #EXTM3U
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vu9LhmS.png",Dazn 1 DE
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-017/stream.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Vu9LhmS.png",Dazn 2 DE
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-018/stream.mpd
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png" ,BeIN Sports 1 AIS
@@ -46,86 +32,94 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-logo="https://i.imgur.com/pyCr9fB.png",Sky Sports Cricket
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pyCr9fB.png",Sky Sports Cricket
 https://webudit.hlsjs.ru/lb/premium65/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8xdURd.png" ,Sky Sports Main Event
+https://webudit.hlsjs.ru/lb/premium38/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png",Discovery HD US
+https://webudit.hlsjs.ru/lb/premium313/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2503 
 #EXTINF:-1 tvg-id="CNN" ch-number="511" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png",CNN HD Malaysia
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1008
 #EXTINF:-1 tvg-id="BBCWorldNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/640px-BBC_World_News_2022_%28Boxed%29.svg.png" ch-number="512",BBC World News HD Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2110
 #EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-logo="https://uk.radio.net/images/broadcasts/47/5f/35826/c300.png" ch-number="513",Al Jazeera English HD Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/915
 #EXTINF:-1 tvg-id="Adithya" ch-number="214" tvg-logo="https://user-images.githubusercontent.com/85995579/130947065-c352cfdd-f4eb-47e3-aec3-806e76cec321.png",Adithiya Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5073
 #EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_vellithirai.png",Astro Vellithirai Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5094
 #EXTINF:-1 tvg-id="Global Trekker" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNpfPRrXubIxPR4apcIjWmqLBXh5F34dCL6w&usqp=CAU" ch-number="550",Global Trekker Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5096
 #EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS96LtAvdcxCAt3e5k1tKXF7E2Zzxan7cnOA&usqp=CAU" ch-number="549",Love Nature Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/100
 #EXTINF:-1 tvg-id="CCM" ch-number="100" tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-classic-movies-hk.png",CELESTIAL CLASSIC MOVIES Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5088
 #EXTINF:-1 tvg-id="KTV" ch-number="216" tvg-logo="https://aqfadtv.xyz/logos/KTV.png",KTV Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1601
 #EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-id="AstroSupersport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png",ASTRO SUPERSPORT HD Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506
 #EXTINF:-1 tvg-id="815" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png",ASTRO SUPERSPORT 4 HD Malaysia
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2306
 #EXTINF:-1 tvg-id="KBSWorld" tvg-logo="https://telegra.ph/file/f0c78541d975e72aa461d.png",KBS World HD Malaysia
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2706
 #EXTINF:-1,  tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD CH351 Malaysia
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/700
 #EXTINF:-1,  tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD CH352 Malaysia
-http://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/700/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/700
 #EXTINF:-1,  tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD CH353 Malaysia
-http://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/700/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/212
 #EXTINF:-1, tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD CH354 Malaysia
-http://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/212/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/212
 #EXTINF:-1, tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD CH355 Malaysia
-http://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/212/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5052
 #EXTINF:-1 tvg-id="703" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Lifetime.png",Lifetime Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2109
 #EXTINF:-1 tvg-id="241" tvg-name="ABO Movies Thangathirai HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_bom_thangathirai.png",ABO Movies Thangathirai HD Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/509
 #EXTINF:-1 tvg-id="615" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK Malaysia
@@ -133,47 +127,47 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5014
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv_live_us.png",MTV LIVE Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2709
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc_ie.png",TLC Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2300
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/food_network_asia.png",FOOD NETWORK Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2502
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hgtv_ca.png",HGTV HD Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2111
 #EXTINF:-1 tvg-id="714" tvg-name="CRIME + INVESTIGATION" tvg-logo="https://www.lyngsat.com/logo/tv/cc/crime-plus-investigation-uk-plus1-us-uk.png",CRIME + INVESTIGATION Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5021
 #EXTINF:-1 tvg-id="122" tvg-name="TVS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvs-my.png",TVS Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/501
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_asia_us.png",Discovery Asia Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2510
 #EXTINF:-1 tvg-id="552" tvg-name="DISCOVERY" tvg-logo="https://www.lyngsat.com/logo/corp/dd/discovery_networks.png",DISCOVERY CHANNEL Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png",SPOTV Malaysia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png",SPOTV2 Malaysia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5079
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png",WWE NETWORK Malaysia
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5098
 #EXTINF:-1 tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola_logo.png",ASTRO ARENA BOLA Malaysia
@@ -181,23 +175,23 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5098/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5051
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.png" ,BBC EARTH Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2710
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/1280px-2018_animal_planet_logo.svg_.png",ANIMAL PLANET Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2403/
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_shuang_xing.png",ASTRO SHUANG XING Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2611
 #EXTINF:-1 tvg-name="COLORS HINDI" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-in.png" ,COLORS HINDI Malaysia
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2101
 #EXTINF:-1 tvg-name="COLORS TAMIL" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-tamil-in-uk.png" ,COLORS TAMIL Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2711
 #EXTINF:-1 tvg-id="AstroXiaoTaiYang" ch-number="304" group-title="Chinese" tvg-logo="https://aqfadtv.astradamy.com/logos/XiaoTaiYang.png",304 Astro Xiao Tai Yang
@@ -205,11 +199,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/604
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png",HISTORY TV HD Malayasia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1006
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/ii/iqiyi-cn.png",IQIYI Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-qa.png" ,BEIN SPORTS 1 Malaysia
@@ -221,11 +215,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2504
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_cricket_my.png",ASTRO CRICKET HD Malaysia
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-my.png",ASTRO ARENA HD Malaysia
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2605
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_tv_us.png" ,WARNER TV HD Malaysia
@@ -237,7 +231,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5049
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/primetime-my.png",PRIMETIME Malaysia
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5054
 #EXTINF:-1 tvg-id="413" tvg-name="SHOWCASE MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/ss/showcase-movies-my.png",SHOWCASE MOVIES Malaysia
@@ -281,55 +275,55 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5050
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_lifestyle_uk.png" ,BBC LIFESTYLE HD Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2406
 #EXTINF:-1 tvg-id="416" tvg-name="TVN MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png",TVN MOVIES Malaysia
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9983
 #EXTINF:-1 tvg-id="392" tvg-name="KBS World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg",K PLUS Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1001
 #EXTINF:-1 tvg-logo="https://bpando.org/wp-content/uploads/tvN-Logo-South-Korea-BPO-1024x683.jpg" ,TVN HD Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2702
 #EXTINF:-1 tvg-id="393" tvg-name="ONE HD" tvg-logo="https://www.lyngsat.com/logo/tv/oo/one-in.png",ONE HD Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2311
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-tamizh-in.png" ,ZEE TAMIL Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2707
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-vijay-in.png",STAR VIJAY Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5089
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_life.png",SUN LIFE Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5011
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-music-in.png",SUN MUSIC Malaysia
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5087
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_news_in.png",SUN NEWS Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5087/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5087/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2310
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_tv_my.png",SUN TV HD Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5051
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.png" group-title="DOCUMENTARY",BBC EARTH Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/500
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png",ASIAN FOOD NETWORK Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2511
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nickelodeon_us_hd.png",NICKELODEON

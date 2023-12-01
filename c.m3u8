@@ -6,9 +6,14 @@
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+#KODIPROP:inputstream.adaptive.license_key=0a5ce785d63f164f5be079a0aa9b6210:d388cbf715f1bb08901a55a7db7f26c0
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png", ASTRO CRICKET 2
-https://linearjitp-playback.astro.com.my/hls-mp4-fp/linear/2504/default.m3u8
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5027/
+#EXTINF:-1 tvg-id="TV2" tvg-logo="https://aqfadtv.astradamy.com/logos/TV2.png",102 TV2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f3238142348789ed5a99b9a1bd8e010:438fb62e97278526686d921126343d32

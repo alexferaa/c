@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/61e100c080ad4be405dd6.png" ,Astro Cricket Malaysia
@@ -138,10 +137,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png", Astro Supersport 4 Malaysia
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
-#KODIPROP:inputstream.adaptive.stream_headers=Host=m.zoom.us
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony Max HD India
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Sony_Max_2_new.png",Sony Max 2 India
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/Sony_Pal_new.png",Sony Pal India
@@ -201,10 +199,9 @@ https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/nP9xpck/trtw.png",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
-#KODIPROP:inputstream.adaptive.stream_headers=Host=m.zoom.us
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/3wYj6cmS/Discovery.png",Discovery HD World India
 https://dplus.gammacdn.workers.dev/videos/95.m3u8
-
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Hx1PS8kS/XBz4I65.png",Discovery Science India
 https://dplus.gammacdn.workers.dev/videos/96.m3u
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/sf7nwKp0/6tkj9BS.jpg",TLC India
@@ -230,3 +227,81 @@ https://dplus.gammacdn.workers.dev/videos/113.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/722791735-959381a44397842bc1f7b14dd6e7ece4e8e6d89094b12e3e829279c5980be790-d_640",ACTION HOLLYWOOD MOVIES
 https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.stream_headers=Host=m.zoom.us
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD 1" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" ,Star Sports 1 HD 1 India
+http://watchindia.net:8880/live/58199/33239/2186.ts
+#KODIPROP:inputstream.adaptive.stream_headers=Host=m.zoom.us
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket 1" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Cricket.png" ,Sky Sports Cricket 1 UK
+http://watchindia.net:8880/live/58199/33239/2090.ts
+#KODIPROP:inputstream.adaptive.stream_headers=Host=m.zoom.us
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Main_Event.png" ,Sky Sports Main Event UK
+http://watchindia.net:8880/live/58199/33239/2091.ts
+#KODIPROP:inputstream.adaptive.stream_headers=Host=m.zoom.us
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_HD.png" ,Star Gold HD India
+http://watchindia.net:8880/live/58199/33239/785.ts
+#KODIPROP:inputstream.adaptive.stream_headers=Host=m.zoom.us
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="Star Gold Select HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_Select_HD.png",Star Gold Select HD India
+http://watchindia.net:8880/live/58199/33239/784.ts
+#KODIPROP:inputstream.adaptive.stream_headers=Host=m.zoom.us
+#EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="Colors Cineplex HD" tvg-logo="https://watchindia.net/images/channels/hindi/Cineplex_HD.png",Colors Cineplex HD India
+http://watchindia.net:8880/live/58199/33239/803.ts
+#KODIPROP:inputstream.adaptive.stream_headers=Host=m.zoom.us
+#EXTINF:-1 tvg-id="ktvhd.in" tvg-name="KTV HD" tvg-logo="https://watchindia.net/images/channels/tamil/KTV_HD.png",KTV HD India
+http://watchindia.net:8880/live/58199/33239/845.ts
+#KODIPROP:inputstream.adaptive.stream_headers=Host=m.zoom.us
+#EXTINF:-1 tvg-id="sirippoli.in" tvg-name="Sirippoli TV" tvg-logo="https://watchindia.net/images/channels/tamil/Sirippoli_TV.png",Sirippoli TV India
+http://watchindia.net:8880/live/58199/33239/2084.ts
+#KODIPROP:inputstream.adaptive.stream_headers=Host=m.zoom.us
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="& Flix HD" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png",& Flix HD India
+http://watchindia.net:8880/live/58199/33239/2088.ts
+#KODIPROP:inputstream.adaptive.stream_headers=Host=m.zoom.us
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="& Prive HD" tvg-logo="https://watchindia.net/images/channels/english/And_Prive_HD.png",& Prive HD India
+http://watchindia.net:8880/live/58199/33239/2103.ts
+#KODIPROP:inputstream.adaptive.stream_headers=Host=m.zoom.us
+#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="Movies Now HD" tvg-logo="https://watchindia.net/images/channels/english/Movies_Now_HD.png" ,Movies Now HD India
+http://watchindia.net:8880/live/58199/33239/2102.ts
+#KODIPROP:inputstream.adaptive.stream_headers=Host=m.zoom.us
+#EXTINF:-1 tvg-id="romedynow.in" tvg-name="Romedy Now" tvg-logo="https://watchindia.net/images/channels/english/Romedy_Now.png" ,Romedy Now India
+http://watchindia.net:8880/live/58199/33239/2188.ts
+#KODIPROP:inputstream.adaptive.stream_headers=Host=m.zoom.us
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="Sky Cinema Action" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Action.png" ,Sky Cinema Action UK
+http://watchindia.net:8880/live/58199/33239/2176.ts
+#KODIPROP:inputstream.adaptive.stream_headers=Host=m.zoom.us
+#EXTINF:-1 tvg-id="skycinemacomedy.uk" tvg-name="Sky Cinema Comedy" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Comedy.png" ,Sky Cinema Comedy UK
+http://watchindia.net:8880/live/58199/33239/2177.ts
+#KODIPROP:inputstream.adaptive.stream_headers=Host=m.zoom.us
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="Sky Cinema Drama" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Drama.png" ,Sky Cinema Drama UK
+http://watchindia.net:8880/live/58199/33239/2179.ts
+#KODIPROP:inputstream.adaptive.stream_headers=Host=m.zoom.us
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="Sky Cinema Family" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Family.png" ,Sky Cinema Family UK
+http://watchindia.net:8880/live/58199/33239/2173.ts
+#KODIPROP:inputstream.adaptive.stream_headers=Host=m.zoom.us
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="Sky Cinema Greats" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Greats.png" ,Sky Cinema Greats UK
+http://watchindia.net:8880/live/58199/33239/2172.ts
+#KODIPROP:inputstream.adaptive.stream_headers=Host=m.zoom.us
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="Sky Cinema Hits" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Hits.png" ,Sky Cinema Hits UK
+http://watchindia.net:8880/live/58199/33239/2171.ts
+#KODIPROP:inputstream.adaptive.stream_headers=Host=m.zoom.us
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="Sky Cinema Premiere" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Premiere.png" ,Sky Cinema Premiere UK
+http://watchindia.net:8880/live/58199/33239/2169.ts
+#KODIPROP:inputstream.adaptive.stream_headers=Host=m.zoom.us
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="Sky Cinema Sci-Fi/Horror" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Sci-Fi_Horror.png" ,Sky Cinema Sci-Fi/Horror UK
+http://watchindia.net:8880/live/58199/33239/2180.ts
+#KODIPROP:inputstream.adaptive.stream_headers=Host=m.zoom.us
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-name="Sky Cinema Select" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Select.png" ,Sky Cinema Select UK
+http://watchindia.net:8880/live/58199/33239/2170.ts
+#KODIPROP:inputstream.adaptive.stream_headers=Host=m.zoom.us
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="Sky Cinema Thriller" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Thriller.png" ,Sky Cinema Thriller UK
+http://watchindia.net:8880/live/58199/33239/2178.ts
+#KODIPROP:inputstream.adaptive.stream_headers=Host=m.zoom.us
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="Star Movies HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png",Star Movies HD India
+http://watchindia.net:8880/live/58199/33239/2080.ts
+#KODIPROP:inputstream.adaptive.stream_headers=Host=m.zoom.us
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="Cinemax" tvg-logo="https://watchindia.net/images/channels/usa/Cinemax.png",Cinemax USA
+http://watchindia.net:8880/live/58199/33239/2065.ts
+
+
+#KODIPROP:inputstream.adaptive.stream_headers=Host=m.zoom.us
+#EXTINF:-1 tvg-id="" tvg-name="Kabhi Khushi Kabhie Gham (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioW5i4R4FEm3QT9yd0aBxJDJi6T.jpg",Kabhi Khushi Kabhie Gham (2001)
+http://watchindia.net:8880/movie/58199/33239/1401.mkv
